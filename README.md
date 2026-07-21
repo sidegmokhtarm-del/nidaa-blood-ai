@@ -70,7 +70,7 @@ The interface labels that response as demo mode.
 ### Setup
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/sidegmokhtarm-del/nidaa-blood-ai.git
 cd nidaa-blood-ai
 npm ci
 ```
